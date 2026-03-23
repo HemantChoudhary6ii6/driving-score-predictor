@@ -1,0 +1,4 @@
+Model,F1 (weighted),AUC-ROC,Train time (s),Mean score /100,Stars /5,Band
+LSTM,0.9103,0.9903,1371.3,37.4,1.9,Poor
+GRU,0.9241,0.9925,2008.1,36.4,1.8,Poor
+Transformer,0.8971,0.9882,1168.8,36.2,1.8,Poor

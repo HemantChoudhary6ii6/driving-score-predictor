@@ -1,0 +1,12 @@
+venv/
+data/raw/
+data/clean/
+data/raw_real/
+data/sequences_X.npy
+data/sequences_y.npy
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
