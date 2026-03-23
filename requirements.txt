@@ -1,4 +1,7 @@
 streamlit
-tensorflow-cpu==2.15.0
 pandas
 numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
